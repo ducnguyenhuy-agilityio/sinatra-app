@@ -1,0 +1,5 @@
+.git
+bundle/
+Dockerfile
+docker-compose.yml
+.editorconfig
